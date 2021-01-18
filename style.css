@@ -39,7 +39,7 @@ li {
 .text {
     position: absolute;
     font-size: 12px;
-    color: white;
+    color: transparent;
     list-style: none;
     width: 120px;
     height: 60px;
